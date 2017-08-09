@@ -8,3 +8,5 @@ hello git
 hello python
 
 hello ruby
+
+add to stage
